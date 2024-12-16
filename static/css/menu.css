@@ -1,0 +1,30 @@
+.navbar{
+    margin-bottom: 2%;
+}
+
+.navbar-brand{
+    color: azure;
+}
+
+.menu-card{
+    height: 90%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.footer{
+    border-radius: 0;
+    margin-top: 3%;
+}
+
+.copy-right{
+    text-align:center;
+    /* color: azure; */
+}
+
+.footer-content{
+    text-align:center;
+    /* color: azure; */
+}

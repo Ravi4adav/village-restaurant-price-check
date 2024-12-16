@@ -1,0 +1,140 @@
+{
+    "html_attributions": [],
+    "result": {
+        "opening_hours": {
+            "open_now": false,
+            "periods": [
+                {
+                    "close": {
+                        "day": 0,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 0,
+                        "time": "1130"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 0,
+                        "time": "2150"
+                    },
+                    "open": {
+                        "day": 0,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1130"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 1,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 1,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1130"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 3,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 3,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1130"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 4,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 4,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1130"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 5,
+                        "time": "2200"
+                    },
+                    "open": {
+                        "day": 5,
+                        "time": "1700"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "1500"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1130"
+                    }
+                },
+                {
+                    "close": {
+                        "day": 6,
+                        "time": "2150"
+                    },
+                    "open": {
+                        "day": 6,
+                        "time": "1700"
+                    }
+                }
+            ],
+            "weekday_text": [
+                "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+                "Tuesday: Closed",
+                "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+                "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+                "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+                "Saturday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:50\u202fPM",
+                "Sunday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:50\u202fPM"
+            ]
+        }
+    },
+    "status": "OK"
+}

@@ -62,3 +62,5 @@ I'm requesting first of all, to create a .env file and place both keys in follow
         
         API_KEY=abcd
         GMAP_KEY=wxyz
+
+Please keep the ".env" inside the directory in which app.py file is present.

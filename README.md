@@ -60,7 +60,7 @@
 This project also requires api_keys like openweathermap.org API KEY and Google Maps (Places API) key.
 I'm requesting first of all, to create a .env file and place both keys in following format.
         
-        API_KEY=abcd
-        GMAP_KEY=wxyz
+        API_KEY=abcd (openweather.org)
+        GMAP_KEY=wxyz (Google maps API)
 
 Please keep the ".env" inside the directory in which app.py file is present.

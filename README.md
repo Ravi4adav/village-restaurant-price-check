@@ -59,5 +59,6 @@
 ## Note:
 This project also requires api_keys like openweathermap.org API KEY and Google Maps (Places API) key.
 I'm requesting first of all, to create a .env file and place both keys in following format.
+        
         API_KEY=abcd
         GMAP_KEY=wxyz
